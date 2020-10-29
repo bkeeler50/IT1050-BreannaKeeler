@@ -1,0 +1,12 @@
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/bin/Debug/netcoreapp3.1/Lab02.deps.json
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/bin/Debug/netcoreapp3.1/Lab02.runtimeconfig.json
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/bin/Debug/netcoreapp3.1/Lab02.runtimeconfig.dev.json
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/bin/Debug/netcoreapp3.1/Lab02.dll
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/bin/Debug/netcoreapp3.1/Lab02.pdb
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.csprojAssemblyReference.cache
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.AssemblyInfoInputs.cache
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.AssemblyInfo.cs
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.csproj.CoreCompileInputs.cache
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.dll
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.pdb
+/Users/Kura/Documents/GitHub/IT1050-BreannaKeeler/Lab02/Lab02/Lab02/obj/Debug/netcoreapp3.1/Lab02.genruntimeconfig.cache
