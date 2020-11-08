@@ -1,0 +1,12 @@
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.csprojAssemblyReference.cache
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.AssemblyInfoInputs.cache
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.AssemblyInfo.cs
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.csproj.CoreCompileInputs.cache
+/Users/Kura/Projects/Lab03/Lab03/bin/Debug/netcoreapp3.1/Lab03.deps.json
+/Users/Kura/Projects/Lab03/Lab03/bin/Debug/netcoreapp3.1/Lab03.runtimeconfig.json
+/Users/Kura/Projects/Lab03/Lab03/bin/Debug/netcoreapp3.1/Lab03.runtimeconfig.dev.json
+/Users/Kura/Projects/Lab03/Lab03/bin/Debug/netcoreapp3.1/Lab03.dll
+/Users/Kura/Projects/Lab03/Lab03/bin/Debug/netcoreapp3.1/Lab03.pdb
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.dll
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.pdb
+/Users/Kura/Projects/Lab03/Lab03/obj/Debug/netcoreapp3.1/Lab03.genruntimeconfig.cache
